@@ -1,0 +1,78 @@
+State_Municipality_County,State_Municipality_County_Level_Type,County,Summary_Report_URL,Total_Population,Poverty_%_Under_2x,Minority_%,No_Health_Insurance_%,Traffic_%_1000ft_Heavy,Asthma_ED_Rate_10k,Air_Cancer_Risk,Air_Non_Cancer,Air_Quality_Index,Flooding_Urban_Land_Cover
+New Jersey,State,,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_AUDUBON%20BORO_Summaryreport.pdf,8885418,22.1,45.3,7.6,9.3,55.7,155,2.2,3.2,12.1
+Burlington County,County,,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_BASS%20RIVER%20TWP_Summaryreport.pdf,446301,15.8,33.4,4.4,12.4,50.1,99,1.7,3.1,8.2
+Bass River TWP,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_BASS%20RIVER%20TWP_Summaryreport.pdf,1225,17.3,14.5,8.5,9.1,,72,1.2,1,51
+Beverly City,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_BEVERLY%20CITY_Summaryreport.pdf,2425,28.4,42,9.7,0,,156,2.9,6.5,18.5
+Bordentown City,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_BORDENTOWN%20CITY_Summaryreport.pdf,3808,16.4,23,2.9,13.7,92.4,170,2.3,3,4.5
+Bordentown Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_BORDENTOWN%20TWP_Summaryreport.pdf,12103,17.3,25.5,5.2,20.7,17.2,164,2.2,4.6,2.6
+Burlington City,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_BURLINGTON%20CITY_Summaryreport.pdf,9845,32.3,50.6,9.4,30.3,,145,2.7,6.2,86.2
+Burlington Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_BURLINGTON%20TWP_Summaryreport.pdf,22600,16.9,55.1,4.7,13.5,4.6,145,2.7,6,14
+Chesterfield Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_CHESTERFIELD%20TWP_Summaryreport.pdf,7484,6.8,53.7,2.3,1.4,,117,2,4.7,1
+Cinnaminson Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_CINNAMINSON%20TWP_Summaryreport.pdf,16429,9.2,14.5,3.8,11.2,14.8,161,3.1,4.8,14.8
+Delanco Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_DELANCO%20TWP_Summaryreport.pdf,4448,19,30,6.6,0,32.4,154,2.9,5.8,48.8
+Delran Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_DELRAN%20TWP_Summaryreport.pdf,16502,15.2,18.8,5.3,11.5,25.1,148,2.8,5,10.2
+Eastampton Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_EASTAMPTON%20TWP_Summaryreport.pdf,6015,8.6,47.8,10.6,0,27.4,107,1.8,5.6,5.4
+Edgewater Park Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_EDGEWATER%20PARK%20TWP_Summaryreport.pdf,8670,31.3,46.7,9.1,7.4,18,150,2.8,6.5,1.4
+Evesham Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_EVESHAM%20TWP_Summaryreport.pdf,45138,9.6,17.2,2.4,14.1,23.8,115,2,2.9,3
+Fieldsboro Borough,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_FIELDSBORO%20BORO_Summaryreport.pdf,761,13.2,46.9,9.9,5.4,,166,2.3,3.2,8.3
+Florence Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_FLORENCE%20TWP_Summaryreport.pdf,12535,17.1,26.9,3.1,4,42.2,152,2.5,6,1.9
+Hainesport Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_HAINESPORT%20TWP_Summaryreport.pdf,6009,9.3,15.1,1.6,20.8,41.9,132,2.2,5.5,4.6
+Lumberton Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_LUMBERTON%20TWP_Summaryreport.pdf,12228,15,36.2,4,9.2,49.7,119,1.9,5.5,4.4
+Mansfield Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_MANSFIELD%20TWP_Summaryreport.pdf,8543,6.3,25.5,1.1,2.5,9,131,2.1,5.5,1.4
+Maple Shade Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_MAPLE%20SHADE%20TWP_Summaryreport.pdf,18590,21.2,32.4,7,36.6,68.3,175,3,5.5,6.2
+Medford Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_MEDFORD%20TWP_Summaryreport.pdf,23346,7.7,8.4,1.1,0,17.9,102,1.6,2.5,4.9
+Medford Lakes Borough,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_MEDFORD%20LAKES%20BORO_Summaryreport.pdf,3961,4.4,10,3,0,,97,1.5,1,8.3
+Moorestown Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_MOORESTOWN%20TWP_Summaryreport.pdf,20474,5.4,20.6,2.6,4.4,23.1,152,2.6,5.4,5.6
+Mount Holly Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_MOUNT%20HOLLY%20TWP_Summaryreport.pdf,9562,27.3,45,8.2,13.9,,124,2,5.6,16.8
+Mount Laurel Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_MOUNT%20LAUREL%20TWP_Summaryreport.pdf,41443,11,30.4,2.1,14.5,29.3,145,2.3,5.2,7.5
+New Hanover Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_NEW%20HANOVER%20TWP_Summaryreport.pdf,8101,11.8,55.5,2.3,0,26,102,3.2,3.5,0.8
+North Hanover Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_NORTH%20HANOVER%20TWP_Summaryreport.pdf,7513,22.4,31.3,2.9,0,26,100,2.1,3.6,1.9
+Palmyra Borough,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_PALMYRA%20BORO_Summaryreport.pdf,7162,29.4,38.2,7.1,14,43.4,180,3.7,5.1,55.5
+Pemberton Borough,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_PEMBERTON%20BORO_Summaryreport.pdf,1494,29.5,41,12.5,0,,104,1.8,4.5,1.4
+Pemberton Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_PEMBERTON%20TWP_Summaryreport.pdf,27082,28.7,45.6,4.1,0,85.1,93,1.8,3.9,5.7
+Riverside Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_RIVERSIDE%20TWP_Summaryreport.pdf,7860,29.9,30.5,18,0,86.4,158,3,5,24.1
+Riverton Borough,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_RIVERTON%20BORO_Summaryreport.pdf,2691,8,15.9,2.9,0,106.1,170,3.4,5,40.4
+Shamong Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_SHAMONG%20TWP_Summaryreport.pdf,6385,10.2,11.2,1.5,0,,82,1.3,1.5,2.3
+Southampton Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_SOUTHAMPTON%20TWP_Summaryreport.pdf,10139,16.9,9.9,2.8,0.1,57.6,95,1.6,4,5.4
+Springfield Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_SPRINGFIELD%20TWP_Summaryreport.pdf,3260,8.3,10.2,6.6,4.5,97.5,110,1.9,5.5,3
+Tabernacle Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_TABERNACLE%20TWP_Summaryreport.pdf,6815,10.6,3.1,1.8,0,11.8,86,1.4,1.3,0.7
+Washington Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_WASHINGTON%20TWP_Summaryreport.pdf,609,19.5,9.4,4.4,0,,72,1.2,1.2,53.3
+Westampton Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_WESTAMPTON%20TWP_Summaryreport.pdf,8687,6.1,49.1,2.5,12.1,23,139,2.3,5.9,3.3
+Willingboro Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_WILLINGBORO%20TWP_Summaryreport.pdf,31862,21.4,86.6,6.3,3.1,132.5,143,2.7,5.9,5.3
+Woodland Township,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_WOODLAND%20TWP_Summaryreport.pdf,1951,28.7,20.3,1.9,0,,72,1.2,2.6,3.1
+Wrightstown Borough,Municipality,Burlington,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/BURLINGTON_WRIGHTSTOWN%20BORO_Summaryreport.pdf,546,40.1,59,7.1,0,,101,2.4,3.9,0
+Camden County,County,,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_AUDUBON%20BORO_Summaryreport.pdf,506721,27,44.1,6.4,16.2,96.2,194,2.9,4.5,1.1
+Audubon Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_AUDUBON%20BORO_Summaryreport.pdf,8656,12.3,10,3.7,0,30.8,194,2.9,4.5,1.1
+Audubon Park Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_AUDUBON%20PARK%20BORO_Summaryreport.pdf,969,29.3,1.4,13.5,64.9,,197,3,4.5,21
+Barrington Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_BARRINGTON%20BORO_Summaryreport.pdf,6678,16.1,10.7,5.8,42,37.5,186,2.8,4.4,0
+Bellmawr Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_BELLMAWR%20BORO_Summaryreport.pdf,11375,29.8,27.6,8.6,34.3,56.3,193,2.9,3.7,6.8
+Berlin Twp,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_BERLIN%20TWP_Summaryreport.pdf,5647,22,36.3,11.2,19.8,57.4,111,2,1.4,2.3
+Camden City,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_CAMDEN%20CITY_Summaryreport.pdf,73742,62.5,94.1,11.4,19.2,302,209,3.3,4.7,47.4
+Cherry Hill,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_CHERRY%20HILL%20TWP_Summaryreport.pdf,71237,13.8,30.3,3,19.7,32.8,169,2.6,5.2,5
+Chesilhurst Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_CHESILHURST%20BORO_Summaryreport.pdf,1440,31.6,54.8,8.6,0,91,99,1.4,1.5,0
+Clementon Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_CLEMENTON%20BORO_Summaryreport.pdf,4939,32.6,48.5,7.7,25.5,,126,2,1.5,4.6
+Collingswood Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_COLLINGSWOOD%20BORO_Summaryreport.pdf,13882,20.6,22.8,6.8,13.9,38.1,194,3,4.5,16.7
+Gibbsboro Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_GIBBSBORO%20BORO_Summaryreport.pdf,2238,18.3,21.1,8,15.2,,126,2.1,2.6,1.7
+Gloucester Twp,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_GLOUCESTER%20TWP_Summaryreport.pdf,63777,18.2,31,5.4,8.1,30.3,135,2.1,2.8,1.3
+Gloucester City,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_GLOUCESTER%20CITY_Summaryreport.pdf,11229,37.1,24.4,7.4,23.5,51,207,3.1,4.4,51.4
+Haddon Twp,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_HADDON%20TWP_Summaryreport.pdf,14562,13.5,10.4,4.1,11.3,,187,2.9,4.6,10.2
+Haddon Heights Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_HADDON%20HEIGHTS%20BORO_Summaryreport.pdf,7520,10.6,6.7,3.4,17.8,24.3,191,2.9,4.1,0.1
+Haddonfield Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_HADDONFIELD%20BORO_Summaryreport.pdf,11342,4.3,7.7,1,1.6,22.6,177,2.8,5.5,2
+Hi-Nella Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_HI-NELLA%20BORO_Summaryreport.pdf,1018,26.6,41,7.9,6,,143,2.3,5.7,0
+Laurel Springs Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_LAUREL%20SPRINGS%20BORO_Summaryreport.pdf,1908,11.1,11.8,3.4,17.7,76.5,137,2.2,3.5,2.5
+Lawnside Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_LAWNSIDE%20BORO_Summaryreport.pdf,2883,23,95.5,5.3,56,,179,2.7,6,2.1
+Lindenwold Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_LINDENWOLD%20BORO_Summaryreport.pdf,17288,42.5,66.3,15.1,15.5,80.5,130,2.1,2,0.7
+Magnolia Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_MAGNOLIA%20BORO_Summaryreport.pdf,4280,23.7,40.4,9.1,24.5,65.2,171,2.7,5.7,0.9
+Merchantville Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_MERCHANTVILLE%20BORO_Summaryreport.pdf,3702,25.6,38.4,9.5,8.4,,176,3.1,5.5,0
+Mount Ephraim Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_MOUNT%20EPHRAIM%20BORO_Summaryreport.pdf,4591,24.9,14.1,2.4,17.3,18.4,198,2.9,4,4.2
+Oaklyn Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_OAKLYN%20BORO_Summaryreport.pdf,3961,19.9,15.1,5.7,3.2,,195,3,4.5,7.8
+Pennsauken Twp,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_PENNSAUKEN%20TWP_Summaryreport.pdf,35704,33.2,70.6,7.5,31.3,86,178,3.3,5.3,15.7
+Pine Hill Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_PINE%20HILL%20BORO_Summaryreport.pdf,10418,27.5,44.3,5.7,0.8,55.5,122,1.9,2.1,0.8
+Runnemede Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_RUNNEMEDE%20BORO_Summaryreport.pdf,8307,24.2,25.1,9.1,7.7,38.9,183,2.7,4,4.5
+Somerdale Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_SOMERDALE%20BORO_Summaryreport.pdf,5479,21.4,45.8,5.5,38.8,115.4,147,2.4,6,100
+Stratford Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_STRATFORD%20BORO_Summaryreport.pdf,6968,18.3,25.7,3.8,22.1,49.4,143,2.3,3.8,0.8
+Tavistock Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_TAVISTOCK%20BORO_Summaryreport.pdf,5,0,0,0,8.5,,185,2.8,6,13.8
+Voorhees Twp,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_VOORHEES%20TWP_Summaryreport.pdf,29188,14,38.1,3.9,5.7,32.3,130,2.2,3.4,2.7
+Waterford Twp,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_WATERFORD%20TWP_Summaryreport.pdf,10694,16.9,15.5,4.2,0.1,58.4,87,1.4,1.5,0.2
+Winslow Twp,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_WINSLOW%20TWP_Summaryreport.pdf,38741,23,53.3,4.6,10.8,89,95,1.5,1.5,3.3
+Woodlynne Boro,Municipality,Camden,https://www.nj.gov/health/hcpnj/documents/county-reports/Summaryreportonly/CAMDEN_WOODLYNNE%20BORO_Summaryreport.pdf,2911,44.2,87.2,12,19.8,89.3,193,3,4.5,52.4
